@@ -1,3 +1,4 @@
 name
 section
 login.jar
+logout.jar
